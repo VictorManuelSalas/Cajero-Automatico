@@ -1,0 +1,40 @@
+body{
+    height: 100%;
+    background: #0206ffa8;  /* fallback for old browsers */
+   
+}
+
+#balance{
+    background: #2773ff;
+}
+
+header,footer
+{
+    height: 40px;
+}
+
+
+
+.wrapper-login{
+    border-radius: 3%;
+    padding: 2rem;
+    background-color: white;
+}
+
+#wraper-logo{
+    border-radius: 0 50%;
+    text-align: center;
+}
+
+#wraper-logo img{
+    max-width: 90px;
+}
+
+
+.bg-login
+{
+    height: 4em;
+    margin: 3.4641em 0;
+    position: relative;
+    width: 6.9282em;
+}
