@@ -30,11 +30,14 @@ header,footer
     max-width: 90px;
 }
 
-
+.d-flex justify-content-around{
+      display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
 .bg-login
 {
     height: 4em;
     margin: 3.4641em 0;
-    position: relative;
     width: 6.9282em;
 }
