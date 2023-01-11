@@ -39,5 +39,6 @@ header,footer
 {
     height: 4em;
     margin: 3.4641em 0;
+    position: relative;
     width: 6.9282em;
 }
